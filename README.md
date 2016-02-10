@@ -1,4 +1,4 @@
-SCRUM PRESENTATION 
+Continuous Delivery Presentation
 
 Presented in:
 
