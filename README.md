@@ -2,4 +2,4 @@ SCRUM PRESENTATION
 
 Presented in:
 
-	Politecnico Jaime Isaza Cadavid
+	Matrix Tech Colombia.
